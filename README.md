@@ -65,7 +65,7 @@ Admins have full control over the system and can perform the following actions:
 - **Manage Users**: Add, remove, or update user information.  
 - **Analytics Dashboard**: Access system statistics, such as sales reports and user activity.
 - ***Try Admin***
-  Email: MM@gmail.com
+  Email: ZG@gmail.com
   Password: 123456mM@@
 
 ### **Regular Users**
